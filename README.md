@@ -45,7 +45,7 @@ this is what this program does
  in the terminal, inside the musync folder hit:
 
  python3 _1_music_log_generator_.py  __YOUR__USER__NAME
-
+ ```
  You should see the output, something like this:
  <img src="https://github.com/ashvtol/musync/blob/master/images/log.png" width="691px"></img>
 
@@ -74,7 +74,7 @@ this is what this program does
  ```
 
  You Should see the output, something like this:
-<img src="https://github.com/ashvtol/musync/blob/master/images/end.png" width="600px"></img>
+ <img src="https://github.com/ashvtol/musync/blob/master/images/end.png" width="600px"></img>
  That's it folks. Fork it!
 
 
