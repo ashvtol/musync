@@ -75,7 +75,9 @@ this is what this program does
 
  You Should see the output, something like this:
  <img src="https://github.com/ashvtol/musync/blob/master/images/end.png" width="600px"></img>
+
  That's it folks. Fork it!
+ Feel free to ask anything.
 
 
 
