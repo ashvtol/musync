@@ -40,6 +40,8 @@ this is what this program does
  2. In terminal, navigate to the unzipped folder.
  3. Then log your existing music library by using with your username
  ```
+ in the terminal, inside the musync folder hit:
+
  python3 _1_music_log_generator_.py  __YOUR__USER__NAME
  ```
  4. Once the log is saved, now all you have to do is run the make command
