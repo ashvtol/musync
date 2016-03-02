@@ -14,7 +14,7 @@ this is what this program does
 
  Prerequisite installation
 
- 1. Android Stand-alone SDK Tools only link <a href=="http://developer.android.com/sdk/installing/index.html">here</a>
+ 1. Android Stand-alone SDK Tools only link <a href="http://developer.android.com/sdk/installing/index.html">here</a>
 
 
 
