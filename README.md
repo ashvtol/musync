@@ -27,7 +27,9 @@ this is what this program does
  2. cd ~/
  3. vim .bash_profile
  paste this with your user name in place inside .bash_profile
- -> export PATH=$PATH:/Users/"__Your__user__name"/Documents/android-sdk-macosx/platform-tools 
+
+ -> export PATH=$PATH:/Users/"__Your__user__name"/Documents/android-sdk-macosx/platform-tools
+
  4. Save the profile and restart it.
 
  ```
@@ -43,7 +45,15 @@ this is what this program does
  in the terminal, inside the musync folder hit:
 
  python3 _1_music_log_generator_.py  __YOUR__USER__NAME
+
+ You should see the output, something like this:
  ```
+ ***************************************AZ********************************************
+ *            Total Songs = 557 as of Wed Mar  2 21:47:55 2016 are logged            *
+ *    Note:Only the changes to the existing library will be pushed to your device    *
+ *************************************************************************************
+ ```
+
  4. Once the log is saved, now all you have to do is run the make command
  but before that provide the arguments to the files in the make file.
  ```
@@ -67,6 +77,13 @@ this is what this program does
 
  make
  ```
+
+ You Should see the output, something like this:
+ ```
+ **********************AZ**********************
+ *             File Transfer Complete         *
+ **********************************************
+ ``` 
  That's it folks. Fork it!
 
 
