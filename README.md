@@ -4,7 +4,7 @@ Sync Music from iTunes to Android
 
 ###What does this program do ?
 Let me put this it this way, say you have a huge  music library which is well organized by some other application say iTunes, if you
-have not updated your phone in a while then to copy those new songs, you either copy-paste it from your download folder amid other songs (very carefully pick the new ones) or you go to the recently added playlist on iTunes and see the list of the new songs and copy each one individually, I understand it can be a big problem if you are running short of time. 
+have not updated your phone in a while, then to copy those new songs, you either copy-paste it from your download folder amid other songs (very carefully pick the new ones) or you go to the recently added playlist on iTunes and see the list of the new songs and copy each one individually, I understand it can be a big problem if you are running short of time. 
 
 
 ###PUSHES ONLY THE NEW SONGS FROM YOUR EXISTING MUSIC LIBRARY TO YOUR ANDROID DEVICE
@@ -34,10 +34,10 @@ this is what this program does
 
  ```
 
- Try running 'adb' command in your , you should see adb running.
+ Try running 'adb' command in your terminal, you should see adb running.
  Run 'adb devices' to see the list of connected devices.
 
- If you've reached till here, then it's a cakewalk from here.
+ If you've reached till here, then it's a cake-walk from here.
  1. Download the repository and unzip it.
  2. In terminal, navigate to the unzipped folder.
  3. Then log your existing music library by using with your username
@@ -50,7 +50,7 @@ this is what this program does
  <img src="https://github.com/ashvtol/musync/blob/master/images/log.png" width="691px"></img>
 
  4. Once the log is saved, now all you have to do is run the make command
- but before that provide the arguments to the files in the make file.
+ but before that provide the arguments to the files in the make file, suitable to your machine.
  ```
  Open make file and make the following changes:
  
