@@ -58,7 +58,7 @@ this is what this program does
  DESTINATION_TO_COPY ->storage/sdcard1 
  					  ->storage/sdcard0
  					  ->storage/9016-4EF (this was mine ... can be used by USING ESPLORER)
- 					 or whatever the is name of your sdcard.
+ 					 or whatever is the name of your sdcard.
  ```
  5. When even-ever you feel to copy the new songs in your library, all you gotta do is
  navigate to the musync solder in the terminal
