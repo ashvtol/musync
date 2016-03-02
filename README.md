@@ -53,7 +53,7 @@ this is what this program does
 
  save the file and close it.
  ```	
- Caution:
+ Caution
  ```
  DESTINATION_TO_COPY ->storage/sdcard1 
  					 ->storage/sdcard0
