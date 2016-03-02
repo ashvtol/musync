@@ -47,12 +47,7 @@ this is what this program does
  python3 _1_music_log_generator_.py  __YOUR__USER__NAME
 
  You should see the output, something like this:
- ```
- ***************************************AZ********************************************
- *            Total Songs = 557 as of Wed Mar  2 21:47:55 2016 are logged            *
- *    Note:Only the changes to the existing library will be pushed to your device    *
- *************************************************************************************
- ```
+ <img src="https://github.com/ashvtol/musync/blob/master/images/log.png" width="691px"></img>
 
  4. Once the log is saved, now all you have to do is run the make command
  but before that provide the arguments to the files in the make file.
@@ -79,11 +74,7 @@ this is what this program does
  ```
 
  You Should see the output, something like this:
- ```
- **********************AZ**********************
- *             File Transfer Complete         *
- **********************************************
- ``` 
+<img src="https://github.com/ashvtol/musync/blob/master/images/end.png" width="600px"></img>
  That's it folks. Fork it!
 
 
