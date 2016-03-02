@@ -74,6 +74,9 @@ for filename in glob.glob('/Users/'+name+'/Music/iTunes/iTunes Media/Music/**/*.
 #####################################################
 #File Close
 olog.close()
+shell.write(("\necho '**********************AZ**********************' \n").encode('utf-8'))
+shell.write(("  echo '*             File Transfer Complete         *'\n").encode('utf-8'))
+shell.write(("echo   '**********************************************' \n").encode('utf-8'))
 shell.close()
 print("Total Files Updated = ", updatedct)
 #####################################################
