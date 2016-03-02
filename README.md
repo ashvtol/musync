@@ -26,14 +26,44 @@ this is what this program does
 
  2. cd ~/
  3. vim .bash_profile
- paste this -> export PATH=$PATH:/Users/"__Your__user__name"/Documents/android-sdk-macosx/platform-tools 
+ paste this with your user name in place inside .bash_profile
+ -> export PATH=$PATH:/Users/"__Your__user__name"/Documents/android-sdk-macosx/platform-tools 
  4. Save the profile and restart it.
 
  ```
 
  Try running 'adb' command in your , you should see adb running.
- Run 'adb devices' to see the list of connected devices 
+ Run 'adb devices' to see the list of connected devices.
+
+ If you've reached till here, then it's a cakewalk from here.
+ 1. Download the repository and unzip it.
+ 2. In terminal, navigate to the unzipped folder.
+ 3. Then log your existing music library by using with your username
+ ```
+ python3 _1_music_log_generator_.py  __YOUR__USER__NAME
+ ```
+ 4. Once the log is saved, now all you have to do is run the make command
+ but before that provide the arguments to the files in the make file.
+ ```
+ Open make file and make the following changes:
  
+ python3 _2_push_diffreneces_to_shell_.py __YOUR__USER__NAME DESTINATION_TO_COPY
+
+ save the file and close it.
+ ```	
+ DESTINATION_TO_COPY ->storage/sdcard1 
+ 					 ->storage/sdcard0
+ 					 ->storage/9016-4EF (this was mine ... can be used by USING ESPLORER)
+ 					 or whatever the is name of your sdcard.
+
+ 5. When even-ever you feel to copy the new songs in your library, all you gotta do is
+ navigate to the musync solder in the terminal
+ ```
+ just hit:
+
+ make
+ ```
+ That's it folks. Fork it!
 
 
 
