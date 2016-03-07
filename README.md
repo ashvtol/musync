@@ -20,7 +20,7 @@ That is what this program does!
  4. Linux/Unix based environment to support shell scripts
 
 
- After you installed 1. Android Stand-alone SDK Tools place it you Documents folder, make sure to set the adb path, this is how it's done
+ After you installed 1. Android Stand-alone SDK Tools place it you Documents folder, make sure to set the adb path, this is how it's done on a MAC
  ```
  1. Open Your Terminal
 
@@ -45,6 +45,8 @@ That is what this program does!
  in the terminal, inside the musync folder hit:
 
  python3 _1_music_log_generator_.py  __YOUR__USER__NAME
+ Example:
+ python3 _1_music_log_generator_.py  theDrgonSlayer
  ```
  You should see the output, something like this:
  <img src="https://github.com/ashvtol/musync/blob/master/images/log.png" width="691px"></img>
@@ -55,7 +57,9 @@ That is what this program does!
  Open make file and make the following changes:
  
  python3 _2_push_diffreneces_to_shell_.py __YOUR__USER__NAME DESTINATION_TO_COPY
-
+ Example:
+ python3 _2_push_diffreneces_to_shell_.py theDragonSlayer storage/sdcard1/Music
+ 
  save the file and close it.
  ```	
  Caution
