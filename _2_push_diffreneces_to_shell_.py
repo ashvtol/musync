@@ -94,7 +94,8 @@ for filename in glob.glob('/Users/'+name+'/Music/iTunes/iTunes Media/Music/**/*.
         olog.write(name)
         updatedct = updatedct + 1;
 print("|------------------------------------------------------------------------|");
-print("|                     Total Files to be Pushed = ", updatedct,"                     |")
+final = "Total Files to be Pushed = " + str(updatedct);
+print(printtoshell(final));
 print("|________________________________________________________________________|");
 
 
