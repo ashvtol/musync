@@ -72,6 +72,9 @@ this is what this program does
 
  make
  ```
+ If _2_push_diffreneces_to_shell_.py runs successfully then you should see the output
+ that appears something like this:
+ <img src="https://github.com/ashvtol/musync/blob/master/images/terminal.png" width="595px"></img>
 
  You Should see the output, something like this:
  <img src="https://github.com/ashvtol/musync/blob/master/images/end.png" width="600px"></img>
