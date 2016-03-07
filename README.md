@@ -70,6 +70,8 @@ That is what this program does!
  					  ->storage/sdcard0
  					  ->storage/9016-4EF (this was mine ... can be used by USING ESPLORER)
  					 or whatever is the name of your sdcard.
+
+ DESTINATION_TO_COPY can diifer on a LINUX machine, to know your destination(after you connected your phone), drag the folder(inside your phone, where you wish to copy) into the Linux terminal.
  ```
  5. When even-ever you feel to copy the new songs in your library, all you gotta do is
  navigate to the musync solder in the terminal
