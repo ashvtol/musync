@@ -8,7 +8,7 @@ have not updated your phone in a while, then to copy those new songs, you either
 
 
 ###PUSHES ONLY THE NEW SONGS FROM YOUR EXISTING MUSIC LIBRARY TO YOUR ANDROID DEVICE
-this is what this program does 
+That is what this program does!
 
 ###How to run it ?
 
