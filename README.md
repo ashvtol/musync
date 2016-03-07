@@ -76,8 +76,8 @@ this is what this program does
  that appears something like this:
  <img src="https://github.com/ashvtol/musync/blob/master/images/terminal.png" width="595px"></img>
 
- You Should see the output, something like this:
- <img src="https://github.com/ashvtol/musync/blob/master/images/end.png" width="600px"></img>
+ Final Output, after the new songs are pushed:
+ <img src="https://github.com/ashvtol/musync/blob/master/images/end.png" width="595px"></img>
 
  That's it folks. Fork it! ..... 
  Feel free to ask anything.
